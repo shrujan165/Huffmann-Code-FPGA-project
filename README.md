@@ -11,3 +11,4 @@ Huffman_Coding_IC/
 
 ├─ 100.coe ........ Memory file generated from vivado ip catalog
 
+
