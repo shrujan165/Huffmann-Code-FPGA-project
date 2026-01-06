@@ -7,8 +7,7 @@ Implemented Huffman coding on a Basys3 board to compress 8-bit grayscale data, w
 Huffman_Coding_IC/
 ├─ huffman.sv ....... Main function for Huffman coding
 ├─ tb.sv ..... RTL testbench
-├─ pattern.sv ....... RTL testing pattern
+├─ top.sv ....... Top module with Block Memory, VIO for reset, and ILA
 
 ├─ 100.coe ........ Memory file generated from vivado ip catalog
-└─ output.txt ....... output Huffman coding
 
