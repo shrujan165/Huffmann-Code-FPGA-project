@@ -9,6 +9,6 @@ Huffman_Coding_IC/
 ├─ tb.sv ..... RTL testbench
 ├─ top.sv ....... Top module with Block Memory, VIO for reset, and ILA
 
-├─ 100.coe ........ Memory file generated from vivado ip catalog
+├─ 100.coe ........ Memory file generated from vivado ip catalog```
 
-## Requirements
+# Requirements
